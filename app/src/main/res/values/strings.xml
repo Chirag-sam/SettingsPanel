@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SettingsPanel</string>
+    
+    <string name="nfc_panel">Open NFC Panel</string>
+    <string name="internet_panel">Open Internet Panel</string>
+    <string name="volume_panel">Open Volume Panel</string>
+</resources>
